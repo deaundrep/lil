@@ -1,4 +1,21 @@
+const Node = function(value){
+  return {
+    value: value,
+    next: null
+  }
+}
 
+const Lil = function(){
+  return{
+    head: null,
+    addToStart: function(){
+      if NewNode 
+
+    }
+  }
+
+
+}
 
 
 
